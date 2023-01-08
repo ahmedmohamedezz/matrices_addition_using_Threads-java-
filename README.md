@@ -1,2 +1,2 @@
 # matrices_addition_using_javaThreads
-## this is lab task in operatin systems course in university
+## This is a lab task in operating systems course in university
